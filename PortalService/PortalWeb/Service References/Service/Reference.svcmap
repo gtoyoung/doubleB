@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d4479593-6188-47af-a5e9-26ef968fd338" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56392/Portal.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Portal.xsd" MetadataType="Schema" ID="b6a3f4ec-9951-4319-b835-55049631d29d" SourceId="1" SourceUrl="http://localhost:56392/Portal.svc?xsd=xsd1" />
+    <MetadataFile FileName="Portal.disco" MetadataType="Disco" ID="dc68a253-4aa3-4587-a074-759f75e82872" SourceId="1" SourceUrl="http://localhost:56392/Portal.svc?disco" />
+    <MetadataFile FileName="Portal.wsdl" MetadataType="Wsdl" ID="1e78e741-310d-4715-ac51-4056e57ad987" SourceId="1" SourceUrl="http://localhost:56392/Portal.svc?wsdl" />
+    <MetadataFile FileName="Portal1.wsdl" MetadataType="Wsdl" ID="fe0e8e24-75c6-4ce8-9b5a-89fc31d66589" SourceId="1" SourceUrl="http://localhost:56392/Portal.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Portal1.xsd" MetadataType="Schema" ID="b273d5bf-f395-4bbd-b2dc-baa488bf61c7" SourceId="1" SourceUrl="http://localhost:56392/Portal.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

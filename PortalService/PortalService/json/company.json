@@ -1,0 +1,25 @@
+{
+  "total": 4,
+  "GridPortletResult": [
+    {
+      "change": 0,
+      "company": "brave",
+      "pctChange": 0
+    },
+    {
+      "change": 0,
+      "company": "dsab",
+      "pctChange": 0
+    },
+    {
+      "change": 0,
+      "company": "dstasat",
+      "pctChange": 0
+    },
+    {
+      "change": 0,
+      "company": "test",
+      "pctChange": 0
+    }
+  ]
+}

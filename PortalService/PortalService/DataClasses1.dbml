@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TestTable" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DOUBLEB;Initial Catalog=TestTable;Integrated Security=True;Encrypt=False;TrustServerCertificate=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="TestTableConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CompanyTable" Member="CompanyTable">
+    <Type Name="CompanyTable">
+      <Column Name="company" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="change" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="pctChange" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
