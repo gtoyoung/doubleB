@@ -1,0 +1,386 @@
+I-Logix-RPY-Archive version 8.12.0 * 9728113
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- isLoadOnDemand = 0;
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 12;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 182;
+				- m_nTop = 182;
+				- m_nRight = 632;
+				- m_nBottom = 565;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "DisplayNavigationRoute.sbs";
+				- _subsystem = "Analysis::NavigationSection::DisplayNavigationRoute";
+				- _class = "";
+				- _name = "Architectural Class Diagram";
+				- _id = GUID eb3fed0a-45ee-4301-99d9-5ce5fd911d29;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 413 340 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 8;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 25;
+				- m_nTop = 25;
+				- m_nRight = 992;
+				- m_nBottom = 576;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "DisplayNavigationRoute.sbs";
+				- _subsystem = "Analysis::NavigationSection::DisplayNavigationRoute";
+				- _class = "";
+				- _name = "Architectural Sequence Diagram";
+				- _id = GUID 7d13c206-5151-4024-b1a7-50f0d7bd2131;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 11626 5888 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 6;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 967;
+				- m_nBottom = 551;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "DisplayNavigationRoute.sbs";
+				- _subsystem = "Analysis::NavigationSection::DisplayNavigationRoute";
+				- _class = "TopLevel";
+				- _name = "ActivityDiagram";
+				- _id = GUID ff5664ea-9f61-4ce2-9a14-de3e468f2c9d;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 930 508 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 10;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 452;
+				- m_nBottom = 325;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdAAAA.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdAAAA";
+				- _class = "RouteSymbol";
+				- _name = "Class Diagram 4";
+				- _id = GUID 58571449-2a2e-4eea-87c1-55778755308e;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 363 213 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 478;
+				- m_nBottom = 351;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdAAAA.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdAAAA";
+				- _class = "RouteSymbol";
+				- _name = "Trace Diagram";
+				- _id = GUID 6f4640e2-d12e-432f-a288-2860cb5c03d5;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 363 213 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 504;
+				- m_nBottom = 377;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdAAAA.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdAAAA";
+				- _class = "";
+				- _name = "Trace Diagram";
+				- _id = GUID de138cbe-8fb5-4822-9183-734751be71ce;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 363 213 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 7;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 426;
+				- m_nBottom = 299;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdAAAA.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdAAAA";
+				- _class = "";
+				- _name = "TsdFormat Class Diagram";
+				- _id = GUID c97a8390-97d1-4f8b-8bb9-ff8156362514;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 363 213 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 130;
+				- m_nTop = 130;
+				- m_nRight = 530;
+				- m_nBottom = 403;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "TsdAAAA.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdAAAA";
+				- _class = "";
+				- _name = "sequencediagram_2";
+				- _id = GUID 5ca4d6df-c917-48ba-8a41-c14be82ffd54;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 363 193 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 9;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 400;
+				- m_nBottom = 273;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdBBB.sbs";
+				- _subsystem = "Design::MFDGraphicsPartition::TsdFormat::TsdBBB";
+				- _class = "";
+				- _name = "Class Diagram 1";
+				- _id = GUID 90916864-3407-47d3-8950-76a3c2a9c82b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 509 382 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 11;
+			- m_bIsActiveView = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 130;
+				- m_nTop = 130;
+				- m_nRight = 954;
+				- m_nBottom = 600;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdManager.sbs";
+				- _subsystem = "Design::SafetyPartition::TSD::TsdManager";
+				- _class = "";
+				- _name = "Architectural Class Diagram";
+				- _id = GUID 683ca99e-c5bd-4b06-a8df-df8c28da119c;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 787 427 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 156;
+				- m_nTop = 156;
+				- m_nRight = 980;
+				- m_nBottom = 626;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdManager.sbs";
+				- _subsystem = "Design::SafetyPartition::TSD::TsdManager";
+				- _class = "";
+				- _name = "Trace Diagram";
+				- _id = GUID c6b9c237-6533-40f6-af0e-8b3e3bbf7e63;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 787 427 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 928;
+				- m_nBottom = 574;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "TsdManager.sbs";
+				- _subsystem = "Design::SafetyPartition::TSD::TsdManager";
+				- _class = "";
+				- _name = "TsdManager Class Diagram";
+				- _id = GUID 517f1b50-408e-44ea-bf55-401f9cd27433;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 787 427 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 12;
+			- m_bIsActiveView = 0;
+		}
+	}
+	- _fullName = "C:\\Users\\DoubelB\\Desktop\\DesignStandard_Model\\DesignStandard";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingCustomBrowserView = 0;
+	- bUsingQueries = 0;
+	- bApplyOnDiagrams = 0;
+	- liQueryIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- liElementTypes = { IRPYRawContainer 
+		- size = 0;
+	}
+	- mapOslcRmCollections = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = ¡Ò∞‹√£±‚;
+			idOrFolder = folder;
+		}
+	}
+
+}
+
